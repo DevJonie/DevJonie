@@ -1,4 +1,12 @@
+<a href="https://www.linkedin.com/in/devjonie/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/devjonie">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
 ### Hi there 👋
+I'm a softwware engineer with experience developing telecom services, ERP solutions and web applications.
 
 <!--
 **DevJonie/DevJonie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
