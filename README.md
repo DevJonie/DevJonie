@@ -6,15 +6,15 @@
 </a>
 
 ## Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm an software engineer with experience developing `telecom services`, `ERP solutions` and `web applications` with `C#/.NET` and `Angular`.
-I take great care in `understanding customer needs`, `designing solutions` and writing `clean code`.
+I'm an software engineer with experience developing `Telecom Services`, `ERP Solutions` and `Web Apps` with `C#/.NET` and `Angular`.
+I take great care to `Understand Customer Needs`, `Designing Solutions` and `Write Testable and Clean Code`.
 I'm always learning and currently exploring `Azure` cloud platform and `Azure DevOps`.
 
 ### Competencies
 - Backend/RESTful API development with `ASP.NET Core`, `EF Core` and `Dapper ORM`,
 - Good with `Angular/Typescript` for frontend web development,
 - Good with `C++` and `Python` as well,
-- Good with `SQL scripting`, `PostgreSQL, `MSSQL Server`, `MongoDB`,
+- Good with `SQL scripting`, `PostgreSQL`, `MSSQL Server`, `MongoDB`,
 - Good understanding of `SOLID` and `Design Patterns`,
 - Basic exposure to DevOps concepts and platforms such as `CI/CD` with `Azure pipelines`,
 - Basic exposure to `Cloud Development with Azure`,
