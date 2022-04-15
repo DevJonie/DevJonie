@@ -12,7 +12,7 @@ I'm always learning and currently exploring `Azure` cloud platform and `Azure De
 
 ### Competencies
 - Backend/RESTful API development with `ASP.NET Core`, `EF Core` and `Dapper ORM`,
-- Good with `Angular/Typescript` for frontend web development,
+- Good with `Angular and ReactJs` for frontend web development,
 - Good with `C++` and `Python` as well,
 - Good with `SQL scripting`, `PostgreSQL`, `MSSQL Server`, `MongoDB`,
 - Good understanding of `SOLID` and `Design Patterns`,
