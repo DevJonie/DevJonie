@@ -6,13 +6,13 @@
 </a>
 
 ## Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm an software engineer with experience developing `Telecom Services`, `ERP Solutions` and `Web Apps` with `C#/.NET` and `Angular`.
+I'm a software engineer with experience developing `Telecom Services`, `ERP Solutions` and `Web Apps` with `C#/.NET` and `Angular`/`ReactJs`.
 I take great care to `Understand Customer Needs`, `Designing Solutions` and `Write Testable and Clean Code`.
-I'm always learning and currently exploring `Azure` cloud platform and `Azure DevOps`.
+I'm always learning and currently exploring the `Azure` cloud platform.
 
 ### Competencies
-- Backend/RESTful API development with `ASP.NET Core`, `EF Core` and `Dapper ORM`,
-- Good with `Angular and ReactJs` for frontend web development,
+- Backend/RESTful API development with `ASP.NET Core`, `Akka.Net`, `EF Core` and `Dapper ORM`,
+- Good with `Angular` and `ReactJs` for frontend web development,
 - Good with `C++` and `Python` as well,
 - Good with `SQL scripting`, `PostgreSQL`, `MSSQL Server`, `MongoDB`,
 - Good understanding of `SOLID` and `Design Patterns`,
@@ -33,17 +33,3 @@ I'm always learning and currently exploring `Azure` cloud platform and `Azure De
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
-<!--
-**DevJonie/DevJonie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
