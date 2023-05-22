@@ -6,7 +6,7 @@
 </a>
 
 ## Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm a software engineer with experience developing `Telecom Services`, `ERP Solutions` and `Web Apps` with `C#/.NET` and `Angular`/`ReactJs`.
+I'm a software engineer with experience developing `Telecom Services`, `Payment Solutions` and `Web Apps` with `C#/.NET` and `Angular`/`ReactJs`.
 I take great care to `Understand Customer Needs`, `Designing Solutions` and `Write Testable and Clean Code`.
 I'm always learning and currently exploring the `Azure` cloud platform.
 
