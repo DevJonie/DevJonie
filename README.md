@@ -1,8 +1,8 @@
 <a href="https://www.linkedin.com/in/devjonie/">
-  <img align="left" alt="John's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="John's LinkedIN" width="22px" src="https://github.com/gilbarbara/logos/blob/main/logos/linkedin-icon.svg" />
 </a>
 <a href="https://twitter.com/devjonie">
-  <img align="left" alt="John | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="John | Twitter" width="22px" src="" />
 </a>
 
 ## Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
